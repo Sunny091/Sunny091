@@ -69,22 +69,37 @@ class AIResearcher:
 
 <!-- ═══════════════════ RESEARCH & INTERESTS ═══════════════════ -->
 
+<h2 align="center">
+    <img src="https://img.shields.io/badge/🔬_RESEARCH_&_INTERESTS-0d1117?style=for-the-badge&logoColor=00D9FF" />
+</h2>
+
 <div align="center">
+<table>
+<tr>
+<td align="center" width="50%"><b>Research</b></td>
+<td align="center" width="50%"><b>Interests</b></td>
+</tr>
+<tr>
+<td>
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                            RESEARCH  &  INTERESTS                          ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                            ║
-║  ▸ LLM Agent & Multi-Agent Systems    ▸ Agent Orchestration & Tool Use     ║
-║  ▸ Model Context Protocol (MCP)       ▸ LLM Serving (vLLM / SGLang)       ║
-║  ▸ Retrieval-Augmented Generation     ▸ AIoT & Edge Intelligence           ║
-║  ▸ NLP & Question Answering           ▸ Backend & System Design            ║
-║  ▸ LoRA / QLoRA Fine-tuning           ▸ Reinforcement Learning             ║
-║                                                                            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+`▸` LLM Agent & Multi-Agent Systems
+`▸` Model Context Protocol (MCP)
+`▸` Retrieval-Augmented Generation (RAG)
+`▸` NLP & Question Answering
+`▸` LoRA / QLoRA Fine-tuning
 
+</td>
+<td>
+
+`▸` Agent Orchestration & Tool Use
+`▸` LLM Serving (vLLM / SGLang)
+`▸` AIoT & Edge Intelligence
+`▸` Backend & System Design
+`▸` Reinforcement Learning
+
+</td>
+</tr>
+</table>
 </div>
 
 <!-- ═══════════════════ PUBLICATION ═══════════════════ -->
