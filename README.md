@@ -77,7 +77,7 @@ class AIResearcher:
 +----------------------------------------------------------------------------+
 |                                                                            |
 |  > LLM Agent & Multi-Agent Systems     > Agent Orchestration & Tool Use    |
-|  > Model Context Protocol (MCP)        > LLM Serving (vLLM / SGLang)      |
+|  > Model Context Protocol (MCP)        > LLM Serving (vLLM / SGLang)       |
 |  > Retrieval-Augmented Generation      > AIoT & Edge Intelligence          |
 |  > NLP & Question Answering            > Backend & System Design           |
 |  > LoRA / QLoRA Fine-tuning            > Reinforcement Learning            |
@@ -101,7 +101,7 @@ class AIResearcher:
 **Personalized Cloze Test Generation with Large Language Models:**
 **Streamlining MCQ Development and Enhancing Adaptive Learning**
 
-*Chih-Hsuan Shen, Yi-Li Kuo, Yao-Chung Fan*
+_Chih-Hsuan Shen, Yi-Li Kuo, Yao-Chung Fan_
 
 <img src="https://img.shields.io/badge/INLG_2024-00D9FF?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/NLP-58a6ff?style=flat-square" />
@@ -125,6 +125,7 @@ class AIResearcher:
 <td width="50%">
 
 ### 🤖 Campus QA Agent
+
 Production-grade campus QA with **3 MCP servers** & **30+ tools**
 
 `Claude API` `MCP` `Node.js` `MongoDB` `Redis` `SSE` `PM2`
@@ -137,6 +138,7 @@ Production-grade campus QA with **3 MCP servers** & **30+ tools**
 <td width="50%">
 
 ### 🏥 Medical Agent
+
 Hospital information agent for **Changhua Christian Hospital**
 
 `MCP` `Agent Framework` `Tool Integration`
@@ -151,6 +153,7 @@ Hospital information agent for **Changhua Christian Hospital**
 <td width="50%">
 
 ### 🔍 Fact Checking Agent
+
 Multi-turn agentic fact-checking system
 
 `MCP` `Knowledge Graph` `Node.js` `Python`
@@ -163,6 +166,7 @@ Multi-turn agentic fact-checking system
 <td width="50%">
 
 ### 🧠 Reinforcement Learning
+
 DQN variants & multi-armed bandit algorithms
 
 `Python` `PyTorch` `Deep RL`
@@ -176,6 +180,7 @@ DQN variants & multi-armed bandit algorithms
 <td width="50%">
 
 ### 💬 NLP & QA Systems
+
 Question answering with ML & retrieval
 
 `Python` `NLP` `RAG`
@@ -187,6 +192,7 @@ Question answering with ML & retrieval
 <td width="50%">
 
 ### 📱 AIoT & Mobile
+
 IoT applications & cross-platform apps
 
 `Dart` `Flutter` `Python`
