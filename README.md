@@ -2,15 +2,15 @@
 
 <p align="center">
     <a href="mailto:s890919@gmail.com">
-        <img src="https://img.shields.io/badge/✉_Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/Sunny">
-        <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/Sunny091">
-        <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00D9FF" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Sunny091&style=for-the-badge&color=0d1117&label=VISITORS" />
+    <img src="https://komarev.com/ghpvc/?username=Sunny091&style=for-the-badge&color=6C47FF&label=VISITORS" />
 </p>
 
 <div align="center">
@@ -89,9 +89,7 @@ class AIResearcher:
 
 <!-- ═══════════════════ PUBLICATION ═══════════════════ -->
 
-<h2 align="center">
-    <img src="https://img.shields.io/badge/📄_PUBLICATION-0d1117?style=for-the-badge&logoColor=00D9FF" />
-</h2>
+<h2 align="center">📄 Publication</h2>
 
 <div align="center">
 <table>
@@ -115,9 +113,7 @@ _Chih-Hsuan Shen, Yi-Li Kuo, Yao-Chung Fan_
 
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
-<h2 align="center">
-    <img src="https://img.shields.io/badge/🚀_FEATURED_PROJECTS-0d1117?style=for-the-badge&logoColor=00D9FF" />
-</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 <table>
@@ -207,9 +203,7 @@ IoT applications & cross-platform apps
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
-<h2 align="center">
-    <img src="https://img.shields.io/badge/⚡_TECH_STACK-0d1117?style=for-the-badge&logoColor=00D9FF" />
-</h2>
+<h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
 <table>
@@ -222,41 +216,41 @@ IoT applications & cross-platform apps
 <tr>
 <td align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JS-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 <td align="center">
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![HuggingFace](https://img.shields.io/badge/HF-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![vLLM](https://img.shields.io/badge/vLLM-0d1117?style=flat-square&logoColor=FF6F00)
-![SGLang](https://img.shields.io/badge/SGLang-0d1117?style=flat-square&logoColor=00B4D8)
-![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat-square&logoColor=white)
+![SGLang](https://img.shields.io/badge/SGLang-00B4D8?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-333333?style=flat-square&logo=ollama&logoColor=white)
+![LoRA](https://img.shields.io/badge/PEFT%2FLoRA-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </td>
 <td align="center">
 
-![Claude](https://img.shields.io/badge/Claude-0d1117?style=flat-square&logo=anthropic&logoColor=D97757)
-![MCP](https://img.shields.io/badge/MCP-0d1117?style=flat-square&logoColor=00D9FF)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=8E75B2)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-00D9FF?style=flat-square&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 </td>
 <td align="center">
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![MongoDB](https://img.shields.io/badge/Mongo-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![PM2](https://img.shields.io/badge/PM2-0d1117?style=flat-square&logo=pm2&logoColor=2B037A)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
 </td>
 </tr>
@@ -265,9 +259,7 @@ IoT applications & cross-platform apps
 
 <!-- ═══════════════════ STATS ═══════════════════ -->
 
-<h2 align="center">
-    <img src="https://img.shields.io/badge/📊_GITHUB_ANALYTICS-0d1117?style=for-the-badge&logoColor=00D9FF" />
-</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sunny091&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
@@ -295,9 +287,9 @@ IoT applications & cross-platform apps
 <br/>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-    <img src="https://img.shields.io/badge/INLG_2024-0d1117?style=for-the-badge&logoColor=00D9FF" />
-    <img src="https://img.shields.io/badge/NCHU_CSIE-0d1117?style=for-the-badge&logoColor=58a6ff" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/INLG_2024-00D9FF?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/NCHU_CSIE-6C47FF?style=for-the-badge&logoColor=white" />
 </div>
 
 <br/>
