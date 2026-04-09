@@ -1,25 +1,27 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,50:161b22,100:00D9FF&text=Chih-Hsuan%20Shen&fontSize=55&fontColor=00D9FF&fontAlignY=30&desc=AI%20Researcher%20%7C%20LLM%20Agent%20%7C%20MCP%20%26%20RAG&descSize=20&descAlignY=52&descColor=58a6ff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,9,5,3,1&text=Chih-Hsuan%20Shen&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Researcher%20%7C%20LLM%20Agent%20%7C%20MCP%20%26%20RAG&descSize=18&descAlignY=55&descAlign=50)
 
 <p align="center">
     <a href="mailto:s890919@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Email-FF3366?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/Sunny">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black" />
     </a>
     <a href="https://github.com/Sunny091">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-9D00FF?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Sunny091&style=for-the-badge&color=6C47FF&label=VISITORS" />
+    <img src="https://komarev.com/ghpvc/?username=Sunny091&style=for-the-badge&color=FF3366" />
 </p>
 
-<div align="center">
+<p align="center">
     <a href="https://github.com/Sunny091">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=90&lines=%E2%9A%A1+LLM+Agent+%7C+MCP+%7C+RAG+%7C+NLP+%7C+RL;%F0%9F%94%A7+Building+Production-Grade+AI+Agent+Systems" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=%E2%9A%A1+LLM+Agent+%7C+MCP+%7C+RAG+%7C+NLP+%7C+RL;%F0%9F%94%A7+Building+Production-Grade+AI+Agent+Systems" alt="Typing SVG" />
     </a>
-</div>
+</p>
 
-<br/>
+---
+
+## `> whoami`
 
 <div align="center">
 <table>
@@ -51,15 +53,15 @@ class AIResearcher:
 <td valign="top" align="center" width="48%">
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny091&theme=github_dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny091&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny091&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny091&theme=github_dark" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny091&theme=tokyonight" width="100%" />
 </picture>
 <br/>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sunny091&theme=github_dark&utcOffset=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sunny091&theme=tokyonight&utcOffset=8" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sunny091&theme=default&utcOffset=8" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sunny091&theme=github_dark&utcOffset=8" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sunny091&theme=tokyonight&utcOffset=8" width="100%" />
 </picture>
 
 </td>
@@ -67,29 +69,36 @@ class AIResearcher:
 </table>
 </div>
 
-<!-- ═══════════════════ RESEARCH & INTERESTS ═══════════════════ -->
-
 <div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-```
-+----------------------------------------------------------------------------+
-|                           RESEARCH  &  INTERESTS                           |
-+----------------------------------------------------------------------------+
-|                                                                            |
-|  > LLM Agent & Multi-Agent Systems     > Agent Orchestration & Tool Use    |
-|  > Model Context Protocol (MCP)        > LLM Serving (vLLM / SGLang)       |
-|  > Retrieval-Augmented Generation      > AIoT & Edge Intelligence          |
-|  > NLP & Question Answering            > Backend & System Design           |
-|  > LoRA / QLoRA Fine-tuning            > Reinforcement Learning            |
-|                                                                            |
-+----------------------------------------------------------------------------+
-```
+### `// Research`
+- LLM Agent & Multi-Agent Systems
+- Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
+- Natural Language Processing
+- LoRA / QLoRA Fine-tuning
 
+</td>
+<td valign="top" width="50%">
+
+### `// Interests`
+- Agent Orchestration & Tool Use
+- LLM Serving (vLLM / SGLang)
+- AIoT & Edge Intelligence
+- Backend & System Design
+- Reinforcement Learning
+
+</td>
+</tr>
+</table>
 </div>
 
-<!-- ═══════════════════ PUBLICATION ═══════════════════ -->
+---
 
-<h2 align="center">📄 Publication</h2>
+## 📄 Publication
 
 <div align="center">
 <table>
@@ -111,9 +120,9 @@ _Chih-Hsuan Shen, Yi-Li Kuo, Yao-Chung Fan_
 </table>
 </div>
 
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+---
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -201,97 +210,94 @@ IoT applications & cross-platform apps
 </table>
 </div>
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+---
 
-<h2 align="center">⚡ Tech Stack</h2>
+## ⚡ Tech Stack
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%"><b>Languages</b></td>
-<td align="center" width="25%"><b>AI / ML / LLM</b></td>
-<td align="center" width="25%"><b>Agent & MCP</b></td>
-<td align="center" width="25%"><b>Tools & Infra</b></td>
-</tr>
-<tr>
-<td align="center">
+<p align="center"><b>Languages</b></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p align="center"><b>AI / ML / LLM</b></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/SGLang-00B4D8?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ollama-333333?style=for-the-badge&logo=ollama&logoColor=white" />
+    <img src="https://img.shields.io/badge/PEFT%2FLoRA-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 
-</td>
-<td align="center">
+<p align="center"><b>Agent & MCP</b></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/MCP-00D9FF?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat-square&logoColor=white)
-![SGLang](https://img.shields.io/badge/SGLang-00B4D8?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-333333?style=flat-square&logo=ollama&logoColor=white)
-![LoRA](https://img.shields.io/badge/PEFT%2FLoRA-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+<p align="center"><b>Tools & Infra</b></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+</p>
 
-</td>
-<td align="center">
+---
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-00D9FF?style=flat-square&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
-</td>
-<td align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-
-</td>
-</tr>
-</table>
-</div>
-
-<!-- ═══════════════════ STATS ═══════════════════ -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sunny091&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
-    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunny091&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=FF3366&currStreakLabel=00D9FF" />
-</div>
-
-<br/>
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunny091&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF3366" width="95%" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sunny091&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sunny091&show_icons=true&theme=default&hide_border=true&count_private=true" />
+        <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sunny091&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sunny091&theme=tokyonight&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sunny091&theme=default&hide_border=true" />
+        <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunny091&theme=tokyonight&hide_border=true" />
+    </picture>
 </div>
 
 <br/>
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunny091&theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunny091&theme=default" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunny091&theme=github_dark" width="95%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sunny091&theme=tokyo-night&hide_border=true&area=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sunny091&theme=minimal&hide_border=true&area=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunny091&theme=tokyo-night&hide_border=true&area=true" width="95%" />
     </picture>
 </div>
-
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
 
 <br/>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-    <img src="https://img.shields.io/badge/INLG_2024-00D9FF?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/NCHU_CSIE-6C47FF?style=for-the-badge&logoColor=white" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunny091&theme=tokyonight" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunny091&theme=default" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunny091&theme=tokyonight" width="95%" />
+    </picture>
 </div>
 
-<br/>
+---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:161b22,100:00D9FF&section=footer)
+<p align="center">
+    <a href="https://github.com/Sunny091/Leetcode">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/INLG_2024-00D9FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/NCHU_CSIE-9D00FF?style=for-the-badge" />
+</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,9,5,3,1&section=footer)
