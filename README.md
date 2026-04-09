@@ -50,7 +50,17 @@ class AIResearcher:
 </td>
 <td valign="top" align="center" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny091&layout=donut-vertical&theme=github_dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" width="85%" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny091&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny091&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny091&theme=github_dark" width="100%" />
+</picture>
+<br/>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sunny091&theme=github_dark&utcOffset=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sunny091&theme=default&utcOffset=8" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sunny091&theme=github_dark&utcOffset=8" width="100%" />
+</picture>
 
 </td>
 </tr>
